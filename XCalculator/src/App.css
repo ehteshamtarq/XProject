@@ -1,0 +1,13 @@
+button{
+    padding: 18px;
+    margin: 5px;
+    border-width: 2px;
+    border-radius: 10px;
+}
+
+.calculator{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
